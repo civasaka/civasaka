@@ -87,10 +87,6 @@ Uptime:  it compiles, ship it
 
 Daily driver: **Hyprland** on **Arch Linux**, shell built on **Ambxst / Quickshell**, terminal **kitty** — config tweaked more often than it's actually used.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=civasaka&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <p align="center"><i>uptime > downtime</i></p>
